@@ -1,0 +1,23 @@
+{
+  "name": "homework14_1",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/nikolozitsalughelashvili/homework14_1#readme",
+  "bugs": {
+    "url": "https://github.com/nikolozitsalughelashvili/homework14_1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikolozitsalughelashvili/homework14_1.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "aos": "^2.3.4"
+  }
+}
